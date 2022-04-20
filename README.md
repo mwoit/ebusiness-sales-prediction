@@ -1,2 +1,2 @@
-# ebusiness-sales-prediction
-Time series benchmark about e-business sales quantities
+# e-Business Sales Prediction
+Time series benchmark about e-business sales prediction
